@@ -17,7 +17,7 @@ def aspectRatio (tamaño):
 
     return simplificados
 
-imagen = Image.open("./Logica de Programacion/Utilidades/20231024_Logo Orva Blanco Fondo Azul.png")
+imagen = Image.open("./Logica de Programacion/Utilidades/6-Ejemplo.png")
 
 print("Tamaño original: {}".format(imagen.size))
 
